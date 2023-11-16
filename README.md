@@ -1,6 +1,5 @@
 [![Status](https://github-readme-stats.vercel.app/api?username=neruha)](https://github.com/anuraghazra/github-readme-stats)
 
-Dear Jetbrains
 Request ID=06112023/13049699
 #5737321
 
